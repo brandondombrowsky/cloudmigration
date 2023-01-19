@@ -1,5 +1,5 @@
 # Migating Workloads to the Cloud
-context paragraph coming 11/120/2023)
+In this practicum our group was to serve as cross functional team memberws working torward the same end: a working program. Out team was tasked with migrating all SQL database content from company's first year to present.Below are some of the highlights of project that I contributed in. 
 
 # Planning & Design in 4 Sprints (built/managed by me)
 [![111.png](https://i.postimg.cc/JnCHYsm7/111.png)](https://postimg.cc/sBK2vDvb)
