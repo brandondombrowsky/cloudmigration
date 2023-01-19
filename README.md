@@ -10,7 +10,7 @@ context paragrapch coming 11/120/2023)
 # Proposed Architecture - Request for Proposal (RFP - Preliminary Build Structure) (built by Namuna/me)
 [![222.png](https://i.postimg.cc/4y58xCwt/222.png)](https://postimg.cc/ZvWPwMGK)
 
-# Start of our Migration Strategy (built by Namunaa and Mona)
+# Start of our Migration Strategy (built by Namuna and Mona)
 [![333.png](https://i.postimg.cc/Z5ZdLBbT/333.png)](https://postimg.cc/N5JFs02V)
 
 # Request for Quotation - (RFQ - Preliminary Pricing Structure) (built by Zaya/me)
