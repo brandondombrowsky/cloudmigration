@@ -1,5 +1,5 @@
 # Migrating Workloads to the Cloud
-In this practicum, our group was to serve as cross-functional team members working toward the same end: migrating a SQL database to the cloud. Our team was tasked with migrating all SQL database content from the company's first year to the present time from their on-prem. Our faux projects have no money so we dodn't input thme into PM planning software, so please forgive the MS Word Plan/Schedule--but it does a great job guiding our GH Project board. Below are some of my project contribution highlights: 
+In this practicum, our group was to serve as cross-functional team members working toward the same end: migrating a SQL database to the cloud. Our team was tasked with migrating all SQL database content from the company's first year to the present time from their on-prem. Our faux project has no money/resources, so we dodn't input thme into PM planning software. Please forgive the plan/schedule's simplicity. The greatest things is that everyone on the team understands it adn can then build GH Project boarditems. Below are some of my project contribution highlights: 
 
 # Planning & Design in 4 Sprints (built/managed by me)
 [![111.png](https://i.postimg.cc/JnCHYsm7/111.png)](https://postimg.cc/sBK2vDvb)
