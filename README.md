@@ -1,7 +1,7 @@
 # Migating Workloads to the Cloud
-context paragrapch coming 11/120/2023)
+context paragraph coming 11/120/2023)
 
-# Planning & Design in 4 Sprints (built by me)
+# Planning & Design in 4 Sprints (built/managed by me)
 [![111.png](https://i.postimg.cc/JnCHYsm7/111.png)](https://postimg.cc/sBK2vDvb)
 
 # Existing Architecture (built by me)
@@ -16,5 +16,5 @@ context paragrapch coming 11/120/2023)
 # Request for Quotation - (RFQ - Preliminary Pricing Structure) (built by Zaya/me)
 [![555.png](https://i.postimg.cc/sxrjRW0x/555.png)](https://postimg.cc/nj3b4Xxf)
 
-# Final Network Plan Without Included SSO Components (build by me)
+# Final Network Plan Without Included SSO Components (built by me)
 [![666.png](https://i.postimg.cc/L5HcT3bt/666.png)](https://postimg.cc/47S24VZy)
