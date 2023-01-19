@@ -14,3 +14,6 @@
 
 # Request for Quotation (Preliminary Pricing Structure)
 [![555.png](https://i.postimg.cc/sxrjRW0x/555.png)](https://postimg.cc/nj3b4Xxf)
+
+# Final Network Plan Without SSO Components
+[![666.png](https://i.postimg.cc/L5HcT3bt/666.png)](https://postimg.cc/47S24VZy)
